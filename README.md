@@ -6,7 +6,7 @@
 The point of these three contracts is to prove my own, and the smart contracts ability to execute code based on conditions. To reduce friction in the current financial system and give more power and freedom to the user. I believe that the general financial landscape is going to look unrecognisable in the next few decades and that blockchain technology powered by web3 will be the driver. 
 
 ----
-## ~`AssociateProfitSplitter.sol`~
+## --= `AssociateProfitSplitter.sol` =--
 ![Associate Profit Splitter](gifs/AssociateProfitSplitter.gif)
 This contract simply takes in payment in Ether and splits it evenly between the specified addresses. 
 
@@ -21,7 +21,7 @@ It would be a handy contract to use for business owners where profits need to be
 
 ----
 
-## ~`TieredProfitSplitter.sol`~
+## --= `TieredProfitSplitter.sol` =--
 ![Tiered Profit Splitter](gifs/TieredProfitSplitter.gif)
 This contract takes in payment in Ether and splits it between three addresses at tiered rates. 65% for the CEO, 25% for the CTO and 15% for a regular employee like Bob. 
 
@@ -36,7 +36,7 @@ The split percentages are currently hardcoded but you could easily add placehold
 
 ----
 
-## ~`DeferredEquityPlan.sol`~
+## --= `DeferredEquityPlan.sol` =--
 ![Deferred Equity Plan](gifs/DeferredEquityPlan.gif)
 This contract is a way of executing an employee's four year vesting schedule on the blockchain.
 
